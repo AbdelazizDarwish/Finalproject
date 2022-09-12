@@ -367,7 +367,7 @@ class _HomeScreenState extends State<HomeScreen> {
                                                   fontWeight: FontWeight.bold),
                                             ),
                                             const SizedBox(
-                                              width: 5,
+                                              width: 6,
                                             ),
                                             Container(
                                               height: 10,
